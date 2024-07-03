@@ -1,0 +1,22 @@
+.nexttop
+{
+    background-color: lightsteelblue;
+    height: 56.8px;
+}
+#cen
+{
+    text-align: center;
+    font-family:"Nunito Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.middle
+{
+    background-image:url(https://imgs.search.brave.com/5Rr144vK9PgWw4eCuWVCglxHxqGrqb3s0_PEy3eTx_Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZWNvZGVjYW1w/Lm9yZy9uZXdzL2Nv/bnRlbnQvaW1hZ2Vz/L3NpemUvdzIwMDAv/MjAyMS8wNy9rb2J1/LWFnZW5jeS1pcEFS/SGF4RVRSay11bnNw/bGFzaC5qcGc);
+    height: 500px;
+}
+.fg
+{
+
+}
